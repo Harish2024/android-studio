@@ -32,8 +32,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Implicit and Explicit Intents”.
-Developed by: Dineshkumar V
-Registeration Number : 212220230013
+Developed by: Harish G
+Registeration Number : 212220230021
 */
 
 
